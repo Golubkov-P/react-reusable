@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "lib": ["ES2015"],
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationDir": "./dist",
+  },
+  "files": [
+    "./lib/useDisableScroll.ts"
+  ],
+  "include": [
+    "./lib/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
