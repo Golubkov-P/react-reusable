@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "hooks/*",
+    "components/*"
+  ],
+  "version": "independent"
+}
