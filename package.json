@@ -2,14 +2,18 @@
   "name": "react-reusable",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "Paul Golubkov <work@paulcodes.tech> (blog.paulcodes.tech)",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "eslint": "^7.28.0",
+    "lerna": "^4.0.0",
+    "react": "^17.0.2",
+    "stylelint": "^13.13.1",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.11"
   }
 }
