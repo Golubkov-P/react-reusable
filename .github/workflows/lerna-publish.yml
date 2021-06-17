@@ -1,0 +1,17 @@
+name: publish
+on:
+  push:
+    branches:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v1
+      - run: npm install -g npm-cli-login lerna
+      - run: npm-cli-login -u ${{ secrets.NPM_USER }} -p ${{secrets.NPM_PASSWORD }} -s react-reusable
+      - run: lerna bootstrap
+      - run: lerna publish --yes
