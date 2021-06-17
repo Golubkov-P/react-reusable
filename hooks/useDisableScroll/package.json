@@ -1,0 +1,36 @@
+{
+  "name": "use-disable-scroll",
+  "version": "1.0.0",
+  "description": "React hook for crossbrowser disabling scroll",
+  "keywords": [
+    "react",
+    "hook",
+    "scroll"
+  ],
+  "author": "Paul Golubkov <work@paulcodes.tech> (blog.paulcodes.tech)",
+  "homepage": "https://github.com/Golubkov-P/react-reusable#readme",
+  "license": "ISC",
+  "main": "dist/useDisableScroll.js",
+  "types": "./dist/useDisableScroll.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Golubkov-P/react-reusable.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepack": "npm run clean && npm run build"
+  },
+  "bugs": {
+    "url": "https://github.com/Golubkov-P/react-reusable/issues"
+  },
+  "dependencies": {
+    "body-scroll-lock": "^3.1.5",
+    "react": "^17.0.2"
+  }
+}
