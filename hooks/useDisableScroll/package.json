@@ -1,5 +1,5 @@
 {
-  "name": "use-disable-scroll",
+  "name": "@react-reusable/use-disable-scroll",
   "version": "1.0.0",
   "description": "React hook for crossbrowser disabling scroll",
   "keywords": [

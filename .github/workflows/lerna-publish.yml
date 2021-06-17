@@ -12,6 +12,6 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v1
       - run: npm install -g npm-cli-login lerna
-      - run: npm-cli-login -u ${{ secrets.NPM_USER }} -p ${{secrets.NPM_PASSWORD }} -s react-reusable -e ${{ secrets.NPM_EMAIL }}
+      - run: npm-cli-login -u ${{ secrets.NPM_USER }} -p ${{secrets.NPM_PASSWORD }} -s @react-reusable -e ${{ secrets.NPM_EMAIL }}
       - run: lerna bootstrap
-      - run: lerna publish --yes
+      - run: lerna publish patch --yes
