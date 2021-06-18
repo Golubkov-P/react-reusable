@@ -20,6 +20,9 @@
     "type": "git",
     "url": "git+https://github.com/Golubkov-P/react-reusable.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf ./dist",
@@ -31,5 +34,6 @@
   "dependencies": {
     "body-scroll-lock": "^3.1.5",
     "react": "^17.0.2"
-  }
+  },
+  "gitHead": "9597ac348a3310e8fda75e6922a1e0b7f9249628"
 }
