@@ -4,8 +4,7 @@
   "description": "Useful react hooks that can be reused across applications",
   "keywords": [
     "react",
-    "hook",
-    "scroll"
+    "hooks"
   ],
   "author": "Paul Golubkov <work@paulcodes.tech> (blog.paulcodes.tech)",
   "homepage": "https://github.com/Golubkov-P/react-reusable#readme",

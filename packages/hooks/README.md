@@ -1,36 +1,17 @@
-# `useDisableScroll`
+# `@react-reusable/hooks`
 
-> React hook that helps you to disable scroll. For example, it can be useful when you open modal.
+> Useful react hooks that can be reused across applications
 
 ## Installing
 
 ```
 // with npm:
-nmp i @react-reusable/use-disable-scroll
+nmp i @react-reusable/hooks
 
 // or with yarn:
-yarn add @react-reusable/use-disable-scroll
+yarn add @react-reusable/hooks
 ```
 
-## Usage
+## Hooks
 
-```
-import * as React from 'react';
-import { useDisableScroll } from '@react-reusable/use-disable-scroll';
-
-export const Modal = props => {
-  const { opened } = props;
-
-  // Use this ref to enable scroll inside element
-  const scrollableContentRef = useDisableScroll(opened);
-
-  ...
-
-  return (
-    <div className="Modal" ref={scrollableContentRef}>
-      ...
-    </div>
-  );
-};
-
-```
+- [`useDisableScroll`](./lib/useDisableScroll#readme)
