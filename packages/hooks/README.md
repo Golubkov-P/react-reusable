@@ -6,7 +6,7 @@
 
 ```
 // with npm:
-nmp i @react-reusable/hooks
+npm i @react-reusable/hooks
 
 // or with yarn:
 yarn add @react-reusable/hooks
