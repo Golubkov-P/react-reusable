@@ -6,11 +6,8 @@
     "declaration": true,
     "declarationDir": "./dist",
   },
-  "files": [
-    "./lib/useDisableScroll.ts"
-  ],
   "include": [
-    "./lib/*"
+    "./lib/**/*"
   ],
   "exclude": [
     "node_modules"
