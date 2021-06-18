@@ -1,6 +1,6 @@
 {
   "name": "@react-reusable/hooks",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Useful react hooks that can be reused across applications",
   "keywords": [
     "react",
