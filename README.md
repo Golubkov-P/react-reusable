@@ -18,7 +18,7 @@ yarn add @react-reusable/hooks
 ### List
 
 [`useDisableScroll`](./packages/hooks/lib/useDisableScroll#readmi) — crossbrowser disable scroll
-
+[`useOpenPopup`](./packages/hooks/lib/useOpenPopup#readme) — manage popups/modals/tooltips visibility state
 
 ## Components
 
