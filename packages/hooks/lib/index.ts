@@ -1,1 +1,2 @@
-export { useDisableScroll } from './useDisableScroll/useDisableScroll';
+export { useDisableScroll } from './useDisableScroll';
+export { useOpenPopup } from './useOpenPopup';

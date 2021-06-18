@@ -6,7 +6,7 @@
 
 ```
 import * as React from 'react';
-import { useDisableScroll } from '@react-reusable/hooks/dist/useDisableScroll';
+import { useDisableScroll } from '@react-reusable/hooks';
 
 export const Modal = props => {
   const { opened } = props;
