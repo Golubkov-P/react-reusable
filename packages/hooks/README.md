@@ -14,4 +14,4 @@ yarn add @react-reusable/hooks
 
 ## Hooks
 
-- [`useDisableScroll`](./lib/useDisableScroll#readme)
+- [`useDisableScroll`](https://github.com/Golubkov-P/react-reusable/tree/main/packages/hooks/lib/useDisableScroll#readme)
