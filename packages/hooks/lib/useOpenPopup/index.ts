@@ -24,8 +24,12 @@ export const useOpenPopup = (): IUseOpenPopupReturn => {
   }, [setOpened]);
 
   const toggle = useCallback(() => {
-    setOpened((prev: boolean) => !prev);
-  }, [setOpened]);
+    if (opened) {
+      open();
+    } else {
+      close();
+    }
+  }, [opened, open, close]);
 
   return {
     open,
