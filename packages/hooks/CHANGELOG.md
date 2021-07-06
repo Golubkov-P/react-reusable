@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.3.4...@react-reusable/hooks@1.4.0) (2021-07-06)
+
+
+### Features
+
+* **hooks:** add useEffectOnUpdates hook ([e8c0621](https://github.com/Golubkov-P/react-reusable/commit/e8c062196f49263fe863b4751574ae517305572f))
+
+
+
+
+
 ## [1.3.4](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.3.3...@react-reusable/hooks@1.3.4) (2021-06-28)
 
 
