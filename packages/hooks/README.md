@@ -16,3 +16,4 @@ yarn add @react-reusable/hooks
 
 - [`useDisableScroll`](https://github.com/Golubkov-P/react-reusable/tree/main/packages/hooks/lib/useDisableScroll#readme) — crossbrowser disable scroll
 - [`useOpenPopup`](https://github.com/Golubkov-P/react-reusable/tree/main/packages/hooks/lib/useOpenPopup#readme) — manage popups/modals/tooltips visibility state
+- [`useEffectOnUpdates`](https://github.com/Golubkov-P/react-reusable/tree/main/packages/hooks/lib/useEffectOnUpdates#readme) — useEffect that ignores first render
