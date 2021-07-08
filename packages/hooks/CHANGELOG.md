@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.4.1...@react-reusable/hooks@1.5.0) (2021-07-08)
+
+
+### Features
+
+* **hooks:** add useOutsideClick hook ([dfa9bd4](https://github.com/Golubkov-P/react-reusable/commit/dfa9bd4fd3e608fe622cf58373efdd3e10f26036))
+
+
+
+
+
 ## [1.4.1](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.4.0...@react-reusable/hooks@1.4.1) (2021-07-06)
 
 **Note:** Version bump only for package @react-reusable/hooks
