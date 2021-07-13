@@ -1,6 +1,9 @@
-# `@react-reusable/hooks`
+<h1 align="center">@react-reusable/hooks</h1>
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/golubkov-p/react-reusable?style=flat-square"> <img src="https://img.shields.io/github/last-commit/golubkov-p/react-reusable?style=flat-square">
+</p>
 
-> Useful react hooks that can be reused across applications
+<p align="center">Useful react hooks that can be reused across applications</p>
 
 ## Installing
 
