@@ -24,6 +24,7 @@ yarn add @react-reusable/hooks
 - [`useOpenPopup`](./packages/hooks/lib/useOpenPopup#readme) — manage popups/modals/tooltips visibility state
 - [`useEffectOnUpdates`](./packages/hooks/lib/useEffectOnUpdates#readme) — useEffect that ignores first render
 - [`useOutsideClick`](./packages/hooks/lib/useOutsideClick#readme) — invoke callback when user clicks outside the element
+- [`useBoolean`](https://github.com/Golubkov-P/react-reusable/tree/main/packages/hooks/lib/useBoolean#readme) — makes it easer to use boolean state
 
 ## 🏰 Components
 

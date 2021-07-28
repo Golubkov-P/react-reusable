@@ -1,9 +1,9 @@
 import { useRef, useCallback, useEffect } from 'react';
-import React = require('react');
+import type { MouseEvent, MutableRefObject } from 'react';
 
 interface IUseOutsideClickParams {
-  callback: (e: React.MouseEvent) => void;
-  ref?: React.MutableRefObject<any>;
+  callback: (e: MouseEvent) => void;
+  ref?: MutableRefObject<any>;
   shouldHandle: boolean;
 }
 
