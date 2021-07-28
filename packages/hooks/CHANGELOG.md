@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.5.0...@react-reusable/hooks@1.6.0) (2021-07-28)
+
+
+### Features
+
+* **hooks:** add useBoolean hook ([a9064f9](https://github.com/Golubkov-P/react-reusable/commit/a9064f98d5aaf6b405909f8586818fd66b4d5cb8))
+
+
+
+
+
 # [1.5.0](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.4.1...@react-reusable/hooks@1.5.0) (2021-07-08)
 
 
