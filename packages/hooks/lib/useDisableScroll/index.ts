@@ -6,7 +6,7 @@ export function useDisableScroll<T = any>(shouldDisable: boolean): MutableRefObj
 
   useEffect(() => {
     if (shouldDisable) {
-      disableBodyScroll(ref);
+      disableBodyScroll(ref.current);
     } else {
       clearAllBodyScrollLocks();
     }
