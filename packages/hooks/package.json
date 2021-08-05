@@ -1,6 +1,6 @@
 {
   "name": "@react-reusable/hooks",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Useful react hooks that can be reused across applications",
   "keywords": [
     "react",
@@ -37,7 +37,7 @@
   "peerDependencies": {
     "react": ">= 16.8"
   },
-  "gitHead": "9597ac348a3310e8fda75e6922a1e0b7f9249628",
+  "gitHead": "fe28b169ef99add1d688a26f35a335a105443249",
   "devDependencies": {
     "react": "^17.0.2"
   }
