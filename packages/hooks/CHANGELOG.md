@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.3](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.6.2...@react-reusable/hooks@1.6.3) (2021-08-05)
+
+
+### Bug Fixes
+
+* **useDisableSroll:** mistake with passing ref into disableBodyScroll ([58c51c7](https://github.com/Golubkov-P/react-reusable/commit/58c51c7d466a05b8e09119f962c4015b85825379))
+
+
+
+
+
 ## [1.6.1](https://github.com/Golubkov-P/react-reusable/compare/@react-reusable/hooks@1.6.0...@react-reusable/hooks@1.6.1) (2021-08-05)
 
 **Note:** Version bump only for package @react-reusable/hooks
